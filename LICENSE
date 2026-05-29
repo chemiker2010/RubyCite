@@ -1,0 +1,103 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+专有软件许可协议
+
+Copyright (c) 2026 Hongtao Lu. All rights reserved.
+版权所有 (c) 2026 Hongtao Lu。保留一切权利。
+
+IMPORTANT — READ CAREFULLY
+重要提示 — 请仔细阅读
+
+This license applies to the original source code, documentation, and assets
+authored by Hongtao Lu for **RubyCite v1.0** (the Tauri desktop application
+and related original materials in this repository), excluding third-party
+open-source components, bundled binaries, and user-supplied model files listed
+in THIRD_PARTY_NOTICES.md.
+
+本许可适用于 Hongtao Lu 创作的 **RubyCite v1.0** 软件（含 Tauri 桌面程序及
+本仓库相关原创材料）之原创源代码、文档与资源，不包括 THIRD_PARTY_NOTICES.md
+中列明的第三方开源组件、捆绑二进制文件及用户自备模型文件。
+
+----------------------------------------------------------------------
+1. GRANT OF LICENSE / 许可授予
+----------------------------------------------------------------------
+
+No license is granted except under a separate written agreement signed by
+Hongtao Lu. Unless you have such an agreement, you may NOT:
+
+除与 Hongtao Lu 另行签订书面授权协议外，不授予任何许可。若无此类协议，
+您不得：
+
+  (a) use, copy, modify, merge, publish, distribute, sublicense, or sell
+      the original source code or derivative works thereof;
+      使用、复制、修改、合并、发布、分发、再许可或销售原创源代码或其衍生作品；
+
+  (b) reverse engineer, decompile, or disassemble the software, except
+      where expressly permitted by applicable law;
+      对软件进行反向工程、反编译或反汇编（适用法律明确允许的除外）；
+
+  (c) remove or alter any copyright, trademark, or proprietary notices.
+      移除或更改任何版权、商标或专有声明。
+
+Use of compiled application binaries (e.g. macOS DMG, .app, or other release
+builds) is permitted only under the terms of your paid license or evaluation
+agreement with Hongtao Lu, unless otherwise agreed in writing.
+
+编译后的应用程序（如 macOS DMG、.app 或其他发布包）之使用，仅可在与 Hongtao Lu
+签订的付费许可或评估协议范围内进行，除非另有书面约定。
+
+----------------------------------------------------------------------
+2. OWNERSHIP / 所有权
+----------------------------------------------------------------------
+
+Hongtao Lu retains all right, title, and interest in and to the original
+software and documentation. This agreement does not transfer any ownership
+to you.
+
+Hongtao Lu 保留对原创软件及文档的一切权利、所有权和利益。本协议不向
+您转让任何所有权。
+
+----------------------------------------------------------------------
+3. THIRD-PARTY COMPONENTS / 第三方组件
+----------------------------------------------------------------------
+
+This software incorporates third-party open-source libraries and may bundle
+native binaries (e.g. Pdfium, llama.cpp server) subject to separate licenses.
+User-supplied GGUF model files placed in the application data directory are
+not authored by Hongtao Lu and remain subject to their upstream licenses.
+Your use of those components is governed by their respective licenses (see
+THIRD_PARTY_NOTICES.md).
+
+本软件包含第三方开源库，并可能捆绑适用单独许可的原生二进制文件（如 Pdfium、
+llama.cpp server）。用户放入应用数据目录的 GGUF 模型文件并非 Hongtao Lu 创作，
+仍适用各模型上游许可。该等组件的使用受其各自许可约束（见 THIRD_PARTY_NOTICES.md）。
+
+----------------------------------------------------------------------
+4. DISCLAIMER OF WARRANTY / 免责声明
+----------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+本软件按「原样」提供，不提供任何明示或暗示的担保，包括但不限于适销性、
+特定用途适用性和不侵权担保。
+
+----------------------------------------------------------------------
+5. LIMITATION OF LIABILITY / 责任限制
+----------------------------------------------------------------------
+
+IN NO EVENT SHALL HONGTAO LU BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+INABILITY TO USE THE SOFTWARE.
+
+在任何情况下，Hongtao Lu 均不对因使用或无法使用本软件而产生的任何直接、
+间接、附带、特殊、惩戒性或后果性损害承担责任。
+
+----------------------------------------------------------------------
+6. CONTACT / 联系方式
+----------------------------------------------------------------------
+
+For licensing inquiries: Hongtao Lu
+Email: chemiker2010@gmail.com
+许可咨询请联系：Hongtao Lu
+电子邮件：chemiker2010@gmail.com

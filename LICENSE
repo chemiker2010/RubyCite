@@ -21,29 +21,28 @@ in THIRD_PARTY_NOTICES.md.
 1. GRANT OF LICENSE / 许可授予
 ----------------------------------------------------------------------
 
-No license is granted except under a separate written agreement signed by
-Hongtao Lu. Unless you have such an agreement, you may NOT:
+(a) Compiled Binaries: Hongtao Lu hereby grants you a world-wide, 
+    royalty-free, non-exclusive license to download, run, and use the 
+    compiled application binaries (e.g., macOS DMG, .app) for personal 
+    or professional purposes. You may redistribute the unmodified 
+    compiled binaries, provided that you include this license and 
+    copyright notice.
+    
+(b) Source Code Restrictions: The original source code remains strictly 
+    proprietary. You may NOT:
+    (i)   use, copy, modify, merge, publish, distribute, sublicense, 
+          or sell the original source code or derivative works thereof;
+    (ii)  reverse engineer, decompile, or disassemble the software;
+    (iii) remove or alter any copyright or proprietary notices.
 
-除与 Hongtao Lu 另行签订书面授权协议外，不授予任何许可。若无此类协议，
-您不得：
+(a) 编译产物：Hongtao Lu 特此授予您全球范围内、免许可费、非独占的许可，
+    允许您因个人或专业目的下载、运行和使用编译后的应用程序（如 macOS DMG、.app）。
+    在保留本许可及版权声明的前提下，您可以重新分发未经修改的编译产物。
 
-  (a) use, copy, modify, merge, publish, distribute, sublicense, or sell
-      the original source code or derivative works thereof;
-      使用、复制、修改、合并、发布、分发、再许可或销售原创源代码或其衍生作品；
-
-  (b) reverse engineer, decompile, or disassemble the software, except
-      where expressly permitted by applicable law;
-      对软件进行反向工程、反编译或反汇编（适用法律明确允许的除外）；
-
-  (c) remove or alter any copyright, trademark, or proprietary notices.
-      移除或更改任何版权、商标或专有声明。
-
-Use of compiled application binaries (e.g. macOS DMG, .app, or other release
-builds) is permitted only under the terms of your paid license or evaluation
-agreement with Hongtao Lu, unless otherwise agreed in writing.
-
-编译后的应用程序（如 macOS DMG、.app 或其他发布包）之使用，仅可在与 Hongtao Lu
-签订的付费许可或评估协议范围内进行，除非另有书面约定。
+(b) 源代码限制：原创源代码仍属于严格专有。您不得：
+    (i)   使用、复制、修改、合并、发布、分发、再许可或销售原创源代码或其衍生作品；
+    (ii)  对软件进行反向工程、反编译或反汇编；
+    (iii) 移除或更改任何版权或专有声明。
 
 ----------------------------------------------------------------------
 2. OWNERSHIP / 所有权

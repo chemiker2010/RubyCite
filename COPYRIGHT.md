@@ -12,7 +12,7 @@ Hongtao Lu is the individual copyright owner of the original application source 
 
 **The original source code is proprietary.** It is **not** open source. No license is granted to use, copy, modify, or distribute the source code except under a **separate written license agreement** with Hongtao Lu. See [LICENSE](LICENSE).
 
-Use of compiled application binaries (e.g. macOS `.dmg`, `.app`, or other release builds) is permitted only under the terms of your paid license or evaluation agreement with Hongtao Lu, unless otherwise agreed in writing.
+Use of compiled application binaries (e.g. macOS .dmg, .app, or other release builds) is granted free of charge for personal and professional use, subject to the terms of the LICENSE. However, the original source code remains strictly proprietary and closed-source.
 
 ### Third-party and bundled components
 
@@ -42,7 +42,7 @@ Hongtao Lu 为本项目原创应用程序源代码、用户界面、文档及项
 
 **原创源代码为专有软件，并非开源软件。** 除与 Hongtao Lu **另行签订书面授权协议**外，不授予任何人使用、复制、修改或分发源代码的权利。详见 [LICENSE](LICENSE)。
 
-编译后的应用程序（如 macOS `.dmg`、`.app` 或其他发布包）之使用，仅可在与 Hongtao Lu 签订的付费许可或评估协议范围内进行，除非另有书面约定。
+编译后的应用程序（如 macOS .dmg、.app 或其他发布包）允许所有人免费下载并用于个人或专业工作，其使用须遵守 LICENSE 的条款。然而，原创源代码仍属于专有且闭源软件。
 
 ### 第三方与捆绑组件
 

@@ -1,6 +1,6 @@
 # Third-Party Notices / 第三方组件声明
 
-**RubyCite v1.0** — original application code: **Copyright © 2026 Hongtao Lu** — **proprietary / all rights reserved** (see [LICENSE](LICENSE)). Not open source.
+**RubyCite** — original application code: **Copyright © 2026 Hongtao Lu** — **proprietary / all rights reserved** (see [LICENSE](LICENSE)). Not open source.
 
 ---
 
@@ -39,9 +39,9 @@ Other files in `bin/` may be added at build time. Check each upstream license be
 
 ## User-supplied AI models (`models/`)
 
-RubyCite v1.0 does **not** ship GGUF weights in the repository. Users place `.gguf` files in the application `models/` directory (or equivalent data folder). Those model files are **not** authored by Hongtao Lu. Verify upstream Hugging Face / model card licenses before use or redistribution (e.g. Qwen, Llama, Mistral).
+RubyCite does **not** ship GGUF weights in the repository. Users place `.gguf` files in the application `models/` directory (or equivalent data folder). Those model files are **not** authored by Hongtao Lu. Verify upstream Hugging Face / model card licenses before use or redistribution (e.g. Qwen, Llama, Mistral).
 
-RubyCite v1.0 **不**在仓库中捆绑 GGUF 权重。用户自行将 `.gguf` 放入应用 `models/` 目录；该等文件**非** Hongtao Lu 创作，使用前请查阅各模型上游许可。
+RubyCite **不**在仓库中捆绑 GGUF 权重。用户自行将 `.gguf` 放入应用 `models/` 目录；该等文件**非** Hongtao Lu 创作，使用前请查阅各模型上游许可。
 
 ---
 

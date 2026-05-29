@@ -29,6 +29,7 @@ RubyCite is a desktop literature tool for researchers, focused on born-digital E
 ## System Requirements
 
 - **macOS** (Apple Silicon preferred; see your build/installer for details)
+- **window10 above x64**
 - Publisher PDFs with **selectable text** (scanned PDFs are poorly supported)
 - An LLM configured for Analyze and Review (local or cloud)
 - Network for Crossref enrichment and cloud APIs

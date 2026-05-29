@@ -2,7 +2,7 @@
 
 ## English
 
-**RubyCite v1.0** (Tauri desktop application and related original materials in this repository) is an **original work** by Hongtao Lu.
+**RubyCite** (Tauri desktop application and related original materials in this repository) is an **original work** by Hongtao Lu.
 
 **Copyright © 2026 Hongtao Lu. All rights reserved.**
 
@@ -32,7 +32,7 @@ For licensing inquiries, contact: **Hongtao Lu** — [chemiker2010@gmail.com](ma
 
 ## 中文
 
-**RubyCite v1.0**（本仓库中的 Tauri 桌面应用程序及相关原创材料）为 Hongtao Lu 的**原创作品**。
+**RubyCite**（本仓库中的 Tauri 桌面应用程序及相关原创材料）为 Hongtao Lu 的**原创作品**。
 
 **版权所有 © 2026 Hongtao Lu。保留一切权利。**
 

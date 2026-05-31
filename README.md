@@ -1,5 +1,6 @@
 [简体中文](./README_zh.md) | English
-RubyCite
+
+#RubyCite
 
 Turn a folder of research papers into a literature review.
 

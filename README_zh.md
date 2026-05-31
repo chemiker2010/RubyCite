@@ -1,6 +1,5 @@
 简体中文 | [English](./README.md)
 # RubyCite
-Cite
 
 将一整个文件夹的学术论文自动整理成文献综述。
 

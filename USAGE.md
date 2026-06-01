@@ -1,3 +1,4 @@
+[简体中文](./USAGE_zh.md) | English
 # 💎 RubyCite v1.0 User Manual
 
 This manual provides a detailed walkthrough for configuring, parsing, evaluating, and synthesizing academic literature inside RubyCite v1.0, culminating in a closed-loop integration with Zotero and EndNote.

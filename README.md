@@ -1,198 +1,30 @@
 [简体中文](./README_zh.md) | English
+# 💎 RubyCite v1.0 — Local-First PDF Structuring & AI Research Review Utility
 
-# RubyCite
+<p align="left">
+  <img src="https://img.shields.io/badge/Version-v1.0%20Stable-green?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Architecture-Local--First-blueviolet?style=flat-square" alt="Architecture">
+  <img src="https://img.shields.io/badge/Security-100%25%20Offline%20Privacy-success?style=flat-square" alt="Privacy">
+  <img src="https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon)-blue?style=flat-square" alt="Platform">
+</p>
 
-Turn a folder of research papers into a literature review.
+### 💡 Core Pain Points Solved
 
-RubyCite is an AI-powered desktop application for researchers.
+1. **No More Scrambled PDF Copy-Pasting**: Traditional PDF copying results in broken lines and messy formatting. RubyCite parses original English SCI PDFs into clean, standard **Markdown text** while **automatically extracting standalone tables and high-resolution figures**.
+2. **AI Literature Reviews without Hallucinated Citations**: Standard LLMs easily fabricate references. RubyCite allows you to **select specific local papers** to feed into the model, generating rigorous reviews anchored with precise `{Author, Year}` citations.
+3. **Seamless EndNote / Zotero Integration**: Paste the AI-generated review into MS Word, click **Export RIS** in RubyCite, and import it into your reference manager. Use `Update Citations` to turn temporary brackets into formal citations instantly.
+4. **Absolute Data Sovereignty**: Fully supports embedded local engines (llama.cpp) and Ollama for **100% air-gapped, offline execution**. Keep your novel research hypotheses and confidential drafts entirely on your own machine.
 
-Import journal PDFs, generate structured summaries, organize notes, and create literature reviews with citations — all while keeping your data on your own machine.
+---
 
-What problem does RubyCite solve?
+### 🛠️ Core Feature Workflow
 
-Most researchers spend hours on repetitive work:
+* **📄 Convert**: Batch-import English PDFs to extract clean Markdown, images, and standard YAML metadata (with automated Crossref enrichment).
+* **📊 Analyze**: Generates a 3-card concise `.digest.md` briefing for any single paper, distilling the core scientific problem, methodologies, and system boundaries in 60 seconds.
+* **🕸️ Review**: Select multiple papers (Full text or Digests), input your outline prompt, and let the LLM execute a tailored literature review draft with valid citation anchors.
+* **💾 Export**: One-click output to standard `library.ris` files for effortless integration with your existing reference database.
 
-Reading dozens of PDFs
+---
 
-Extracting key findings
-
-Taking notes
-
-Comparing papers
-
-Writing literature review sections
-
-Managing references
-
-RubyCite connects these steps into a single workflow.
-
-Instead of switching between PDF readers, note-taking apps, AI chat tools, and reference managers, you can do everything in one place.
-
-Workflow
-
-PDF Papers
-    ↓
-AI Summaries
-    ↓
-Research Notes
-    ↓
-Multi-Paper Review
-    ↓
-RIS Export
-    ↓
-EndNote / Zotero / Word
-
-Key Features
-
-Generate literature reviews from multiple papers
-
-Select a collection of papers and ask RubyCite to generate a review on a specific topic.
-
-The generated review includes author-year citations:
-
-Recent studies suggest that transformer-based approaches
-significantly improve retrieval accuracy {Smith, 2023}.
-
-Export references as RIS and continue writing in Word, EndNote, or Zotero.
-
-AI summaries for every paper
-
-Generate concise summary cards for individual articles.
-
-Each paper can be transformed into:
-
-Research objective
-
-Methodology
-
-Main findings
-
-Limitations
-
-Personal notes
-
-This helps build a searchable knowledge base while reading.
-
-Convert PDFs into editable Markdown
-
-RubyCite converts publisher PDFs into structured Markdown.
-
-Extracted content includes:
-
-Text
-
-Figures
-
-Tables
-
-Metadata
-
-DOI information
-
-Markdown files remain accessible outside RubyCite and can be edited with any editor.
-
-Reference management
-
-RubyCite automatically detects:
-
-DOI
-
-Authors
-
-Journal
-
-Publication year
-
-Metadata can be enriched through Crossref.
-
-Export RIS files compatible with:
-
-EndNote
-
-Zotero
-
-Mendeley
-
-Word Citation Manager
-
-Local-first AI
-
-Your research library stays on your machine.
-
-Supported AI providers:
-
-Built-in llama.cpp models
-
-Ollama
-
-LM Studio
-
-OpenAI-compatible APIs
-
-DeepSeek-compatible APIs
-
-Choose between local inference and cloud models.
-
-Typical Use Cases
-
-Literature Review Writing
-
-Import 20–50 papers and generate a draft review section before writing manually.
-
-Thesis Research
-
-Build a searchable repository of summaries and notes while reading papers.
-
-Research Group Knowledge Base
-
-Store papers as Markdown and keep notes alongside extracted figures and metadata.
-
-Privacy-Sensitive Research
-
-Run local models without uploading papers to external services.
-
-Supported Platforms
-
-macOS
-
-Windows 10+
-
-Apple Silicon recommended
-
-Requirements
-
-Publisher PDF with selectable text
-
-Local or cloud LLM configured for AI features
-
-Internet connection only required for:
-
-Crossref metadata lookup
-
-Cloud API providers
-
-Why RubyCite?
-
-Many tools help you read papers.
-
-RubyCite focuses on helping you move from:
-
-Reading → Understanding → Reviewing → Writing
-
-with minimal friction and complete control over your research data.
-
-Getting Started
-
-Import PDFs
-
-Generate AI summaries
-
-Add your notes
-
-Select papers for review generation
-
-Export RIS references
-
-Continue writing in Word, EndNote, or Zotero
-
-That's it.
+### ⚡ Project Orientation
+RubyCite is an **offline-first data utility designed to streamline the academic workflow**. It is **NOT** a standard AI copywriting or paraphrasing wrapper, but an engineered toolchain built to eliminate the drag of reading, tracking, and citing massive piles of academic PDFs.

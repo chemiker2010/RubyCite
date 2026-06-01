@@ -1,3 +1,4 @@
+简体中文| [English](./USAGE.md) 
 # 💎 RubyCite v1.0 使用说明书
 
 本手册旨在指导您在 macOS 环境下完成 RubyCite v1.0 的配置、数据导入、AI 降维分析、综述生成以及与 Zotero / EndNote 的闭环联动。

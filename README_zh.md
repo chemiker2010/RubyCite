@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/版本-v1.0%20Stable-green?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/架构-本地优先%20%7C%20Local--First-blueviolet?style=flat-square" alt="Architecture">
   <img src="https://img.shields.io/badge/安全-100%25%20离线隐私保护-success?style=flat-square" alt="Privacy">
-  <img src="https://img.shields.io/badge/平台-macOS%20(M1/M2/M3%20优先)-blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/平台-macOS%20 或者windows 64位系统%20-blue?style=flat-square" alt="Platform">
 </p>
 
 ### 💡 解决的核心问题

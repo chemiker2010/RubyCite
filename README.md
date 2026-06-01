@@ -1,4 +1,4 @@
-[简体中文](./README_zh.md) | English                                                     [User Manual](./USAGE.md) 
+[简体中文](./README_zh.md) | English 
 # 💎 RubyCite v1.0 — Local PDF Pipeline Parser & Sovereign Citation Review Utility
 
 <p align="left">
@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Security-100%25%20Offline%20Privacy-success?style=flat-square" alt="Privacy">
   <img src="https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon)-blue?style=flat-square" alt="Platform">
 </p>
-
 ### 💡 Core Pain Points Solved
 
 1. **No More Scrambled PDF Copy-Pasting**: Traditional PDF copying results in broken lines and messy formatting. RubyCite parses original English SCI PDFs into clean, standard **Markdown text** while **automatically extracting standalone tables and high-resolution figures**.
@@ -28,3 +27,4 @@
 
 ### ⚡ Project Orientation
 RubyCite is an **offline-first data utility designed to streamline the academic workflow**. It is **NOT** a standard AI copywriting or paraphrasing wrapper, but an engineered toolchain built to eliminate the drag of reading, tracking, and citing massive piles of academic PDFs.
+[Manual](./USAGE.md)

@@ -1,4 +1,4 @@
-[简体中文](./README_zh.md) | English
+[简体中文](./README_zh.md) | English                                                     [User Manual](./USAGE.md) 
 # 💎 RubyCite v1.0 — Local PDF Pipeline Parser & Sovereign Citation Review Utility
 
 <p align="left">

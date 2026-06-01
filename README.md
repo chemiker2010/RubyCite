@@ -1,5 +1,5 @@
 [简体中文](./README_zh.md) | English
-# 💎 RubyCite v1.0 — Local-First PDF Structuring & AI Research Review Utility
+# 💎 RubyCite v1.0 — Local PDF Pipeline Parser & Sovereign Citation Review Utility
 
 <p align="left">
   <img src="https://img.shields.io/badge/Version-v1.0%20Stable-green?style=flat-square" alt="Version">

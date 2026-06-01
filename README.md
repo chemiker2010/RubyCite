@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Version-v1.0%20Stable-green?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Architecture-Local--First-blueviolet?style=flat-square" alt="Architecture">
   <img src="https://img.shields.io/badge/Security-100%25%20Offline%20Privacy-success?style=flat-square" alt="Privacy">
-  <img src="https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon)-blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-macOS%20 or windows X64%20 -blue?style=flat-square" alt="Platform">
 </p>
 ### 💡 Core Pain Points Solved
 

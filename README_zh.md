@@ -1,5 +1,5 @@
 简体中文 | [English](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-# ♦️ RubyCite  — 个人科研平台
+# ♦️ RubyCite  — 科研IDE工作台
 <p align="left">
   <img src="https://img.shields.io/badge/版本-v2.0%20Stable-green?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/架构-本地优先%20%7C%20Local--First-blueviolet?style=flat-square" alt="Architecture">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/平台-macOS%20 或者windows 64位系统%20-blue?style=flat-square" alt="Platform">
 </p>
 
-**RubyCite** 是一款面向 **macOS 与 Windows** 的桌面应用，把电脑变成你的**个人科研平台**：导入论文、本地阅读与检索、对文库智能问答、带引文写稿，并顺畅对接 Word 与文献管理软件 —— 默认情况下，不必把 PDF 文库交给云端。
+**RubyCite** 是一款面向 **macOS 与 Windows** 的桌面应用，把电脑变成你的**科研IDE工作台**：导入论文、本地阅读与检索、对文库智能问答、带引文写稿，并顺畅对接 Word 与文献管理软件 —— 默认情况下，不必把 PDF 文库交给云端。
 
 转换正文、文献记录、向量索引、笔记与项目稿件都保存在本机。
 

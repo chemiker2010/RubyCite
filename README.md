@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Platform-macOS%20 or windows X64%20 or Linux -blue?style=flat-square" alt="Platform">
 </p>
 
-**RubyCite** is a desktop app for macOS and Windows that turns your computer into a **Research IDE**: import papers, read and search them locally, ask questions across your library, draft with citations, and finish in Word — without handing your PDF collection to a cloud service by default.
+**RubyCite** is a desktop app for macOS Linux and Windows that turns your computer into a **Research IDE**: import papers, read and search them locally, ask questions across your library, draft with citations, and finish in Word — without handing your PDF collection to a cloud service by default.
 
 Everything lives on your machine: converted texts, library records, vector index, notes, and project manuscripts.
 
@@ -170,6 +170,7 @@ Create a **new folder from template** or **apply a template** to an open workspa
 - Local **HTTPS** connection to RubyCite on your computer (desktop app must be running).
 - Task pane: **search library**, **insert citations**, **format bibliography**.
 - One-time **certificate trust** and manifest install from the Tools menu.
+- Support Libreoffice and Onlyoffice on Linux
 
 ### Settings and interface
 

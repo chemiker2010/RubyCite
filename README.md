@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Version-v2.0%20Stable-green?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Architecture-Local--First-blueviolet?style=flat-square" alt="Architecture">
   <img src="https://img.shields.io/badge/Security-100%25%20Offline%20Privacy-success?style=flat-square" alt="Privacy">
-  <img src="https://img.shields.io/badge/Platform-macOS%20 or windows X64%20 -blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-macOS%20 or windows X64%20 or Linux -blue?style=flat-square" alt="Platform">
 </p>
 
 **RubyCite** is a desktop app for macOS and Windows that turns your computer into a **Research IDE**: import papers, read and search them locally, ask questions across your library, draft with citations, and finish in Word — without handing your PDF collection to a cloud service by default.
